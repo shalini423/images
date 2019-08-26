@@ -1,7 +1,6 @@
 #
 # Dockerfile for WordPress
 #
-FROM appsvcorg/wordpress-alpine-php:0.7
 MAINTAINER Azure App Service Container Images <appsvc-images@microsoft.com>
 # ========
 # ENV vars
